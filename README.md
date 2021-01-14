@@ -9,7 +9,7 @@
 :octocat: [Repositorios](https://github.com/luisroxis/Proffy)
 
 <p>
-  ![GitHub](https://img.shields.io/github/license/luisroxis/Proffy?style=for-the-badge) <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> 
+  <img alt="GitHub" src="https://img.shields.io/github/license/luisroxis/Proffy?style=for-the-badge"> <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> 
 </p>
 
 ## Tecnologias
@@ -24,13 +24,14 @@
   PostgreSql :heavy_check_mark:
 
  :octocat: [Backend](https://github.com/luisroxis/ProffyBack)
-<p>
-  ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/luisroxis/ProffyBack?style=for-the-badge) 
-  ![GitHub top language](https://img.shields.io/github/languages/top/luisroxis/ProffyBack?style=for-the-badge) 
-  ![GitHub language count](https://img.shields.io/github/languages/count/luisroxis/ProffyBack?style=for-the-badge) 
-  ![GitHub issues](https://img.shields.io/github/issues/luisroxis/ProffyBack?style=for-the-badge) 
-  ![GitHub pull requests](https://img.shields.io/github/issues-pr/luisroxis/ProffyBack?style=for-the-badge)
-</p>
+
+  <p>
+    <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/luisroxis/ProffyBack?style=for-the-badge"> 
+    <img alt="GitHub issues" src="https://img.shields.io/github/issues/luisroxis/ProffyBack?style=for-the-badge"> 
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/luisroxis/ProffyBack?style=for-the-badge"> 
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/luisroxis/ProffyBack?style=for-the-badge"> 
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/luisroxis/ProffyBack?style=for-the-badge">
+  </p>
 
 ### Frontend :desktop_computer:
 
@@ -39,24 +40,28 @@ React :heavy_check_mark:
 Axios :white_check_mark:
 
  :octocat: [Frontend Web](https://github.com/luisroxis/ProffyWeb) 
-<p>
-  ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/luisroxis/ProffyWeb?style=for-the-badge) 
-  ![GitHub top language](https://img.shields.io/github/languages/top/luisroxis/ProffyWeb?style=for-the-badge) 
-  ![GitHub language count](https://img.shields.io/github/languages/count/luisroxis/ProffyWeb?style=for-the-badge) 
-  ![GitHub issues](https://img.shields.io/github/issues/luisroxis/ProffyWeb?style=for-the-badge) 
-  ![GitHub pull requests](https://img.shields.io/github/issues-pr/luisroxis/ProffyWeb?style=for-the-badge)
-</p> 
+
+  <p>
+  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/luisroxis/ProffyWeb?style=for-the-badge"> 
+  <img alt="GitHub issues" src="https://img.shields.io/github/issues/luisroxis/ProffyWeb?style=for-the-badge"> 
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/luisroxis/ProffyWeb?style=for-the-badge"> 
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/luisroxis/ProffyWeb?style=for-the-badge"> 
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/luisroxis/ProffyWeb?style=for-the-badge">
+  </p>
 
 ### Mobile :iphone:
 
   Expo :heavy_check_mark:
   Typescript :heavy_check_mark:
 
-![Frontend Mobile](https://github.com/luisroxis/ProffyMobile)
-<p>
-  ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/luisroxis/ProffyMobile?style=for-the-badge) 
-  ![GitHub top language](https://img.shields.io/github/languages/top/luisroxis/ProffyMobile?style=for-the-badge) 
-  ![GitHub language count](https://img.shields.io/github/languages/count/luisroxis/ProffyMobile?style=for-the-badge) 
-  ![GitHub issues](https://img.shields.io/github/issues/luisroxis/ProffyMobile?style=for-the-badge) 
-  ![GitHub pull requests](https://img.shields.io/github/issues-pr/luisroxis/ProffyMobile?style=for-the-badge)
-</p>
+:octocat: [Frontend Mobile](https://github.com/luisroxis/ProffyMobile)
+
+  <p>
+  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/luisroxis/ProffyMobile?style=for-the-badge"> 
+  <img alt="GitHub issues" src="https://img.shields.io/github/issues/luisroxis/ProffyMobile?style=for-the-badge"> 
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/luisroxis/ProffyMobile?style=for-the-badge"> 
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/luisroxis/ProffyMobile?style=for-the-badge"> 
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/luisroxis/ProffyMobile?style=for-the-badge">
+  </p>
+
+<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/luisroxis/Proffy?style=for-the-badge">
