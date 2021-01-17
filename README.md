@@ -11,7 +11,9 @@
 <p>
   <img alt="GitHub" src="https://img.shields.io/github/license/luisroxis/Proffy"></p>
 
-<p> <img alt="Git" src="https://img.shields.io/badge/-Git-F05032ogo=git&logoColor=white" /> <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> 
+<p> 
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black" /> 
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=black" /> 
 </p>
 
 ## Tecnologias
