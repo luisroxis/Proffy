@@ -35,7 +35,8 @@
     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/luisroxis/ProffyBack?style=for-the-badge"> 
     <img alt="Codeship" src="https://img.shields.io/codeship/ba7880e6-9a53-47fe-ae05-3a750bdf4db4?style=for-the-badge">
   </p> 
-  [![Proffy Backend](http://heroku-shields.herokuapp.com/proffyback)](https://proffyback.herokuapp.com)
+  <img alt="Proffy Backend" src="http://heroku-shields.herokuapp.com/proffyback">
+ 
 
 
 ### Frontend :desktop_computer:
