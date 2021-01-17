@@ -34,7 +34,7 @@
     <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/luisroxis/ProffyBack?style=for-the-badge"> 
     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/luisroxis/ProffyBack?style=for-the-badge"> 
     <img alt="Codeship" src="https://img.shields.io/codeship/ba7880e6-9a53-47fe-ae05-3a750bdf4db4?style=for-the-badge">
-    <img alt="SonarCluod" src=" https://sonarcloud.io/api/project_badges/measure?project=luisroxis_ProffyBack&metric=sqale_rating?style=for-the-badge">
+    <img alt="SonarCluod" src=" https://sonarcloud.io/api/project_badges/measure?project=luisroxis_ProffyBack&metric=sqale_rating">
   </p>
 
 ### Frontend :desktop_computer:
@@ -45,7 +45,7 @@ Axios :white_check_mark:
 
  :octocat: [Frontend Web](https://github.com/luisroxis/ProffyWeb)
 
- :web: [ProffyWeb](https://swap-proffyweb.netlify.app)
+ :desktop_computer: [ProffyWeb](https://swap-proffyweb.netlify.app)
 
   <p>
   <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/luisroxis/ProffyWeb?style=for-the-badge"> 
