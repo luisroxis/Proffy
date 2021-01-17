@@ -34,8 +34,7 @@
     <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/luisroxis/ProffyBack?style=for-the-badge"> 
     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/luisroxis/ProffyBack?style=for-the-badge"> 
     <img alt="Codeship" src="https://img.shields.io/codeship/ba7880e6-9a53-47fe-ae05-3a750bdf4db4?style=for-the-badge">
-     
-    https://sonarcloud.io/api/project_badges/measure?project=luisroxis_ProffyBack&metric=sqale_rating
+    <img alt="SonarCluod" src=" https://sonarcloud.io/api/project_badges/measure?project=luisroxis_ProffyBack&metric=sqale_rating?style=for-the-badge">
   </p>
 
 ### Frontend :desktop_computer:
