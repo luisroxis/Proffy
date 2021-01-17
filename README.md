@@ -34,7 +34,7 @@
     <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/luisroxis/ProffyBack?style=for-the-badge"> 
     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/luisroxis/ProffyBack?style=for-the-badge"> 
     <img alt="Codeship" src="https://img.shields.io/codeship/ba7880e6-9a53-47fe-ae05-3a750bdf4db4?style=for-the-badge">   
-  <img alt="Proffy Backend" src="http://heroku-shields.herokuapp.com/proffyback?style=for-the-badge">
+  <img alt="Proffy Backend" src="http://heroku-shields.herokuapp.com/proffyback">
   </p> 
  
 
