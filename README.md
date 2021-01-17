@@ -11,7 +11,7 @@
 <p>
   <img alt="GitHub" src="https://img.shields.io/github/license/luisroxis/Proffy?style=for-the-badge"></p>
 
-<p> <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> 
+<p> <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white?style=for-the-badge" /> <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white?style=for-the-badge" /> 
 </p>
 
 ## Tecnologias
@@ -35,8 +35,8 @@
     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/luisroxis/ProffyBack?style=for-the-badge"> 
     <img alt="Codeship" src="https://img.shields.io/codeship/ba7880e6-9a53-47fe-ae05-3a750bdf4db4?style=for-the-badge">
   </p> 
-    [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=luisroxis_ProffyBack&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=luisroxis_ProffyBack?style=for-the-badge)  
-    [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=luisroxis_ProffyBack&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=luisroxis_ProffyBack?style=for-the-badge)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=luisroxis_ProffyBack&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=luisroxis_ProffyBack?style=for-the-badge)  
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=luisroxis_ProffyBack&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=luisroxis_ProffyBack?style=for-the-badge)
 
 
 ### Frontend :desktop_computer:
@@ -58,8 +58,8 @@ Axios :heavy_check_mark:
   <img alt="Codeship" src="https://img.shields.io/codeship/a52ebf01-fbe9-4327-9bc9-6b5a7aa03e68?style=for-the-badge"> 
   <img alt="Netlify" src="https://img.shields.io/netlify/1a6dc78e-ad54-491d-989c-1699dd5a9d59?style=for-the-badge">
   </p> 
- [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=luisroxis_ProffyWeb&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=luisroxis_ProffyWeb?style=for-the-badge) 
- [![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=luisroxis_ProffyWeb&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=luisroxis_ProffyWeb?style=for-the-badge)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=luisroxis_ProffyWeb&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=luisroxis_ProffyWeb?style=for-the-badge) 
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=luisroxis_ProffyWeb&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=luisroxis_ProffyWeb?style=for-the-badge)
 
 
 ### Mobile :iphone:
@@ -77,8 +77,8 @@ Axios :heavy_check_mark:
     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/luisroxis/ProffyMobile?style=for-the-badge"> 
     <img alt="Codeship" src="https://img.shields.io/codeship/45727e3d-24cf-4746-9b0d-68ec8093338e?style=for-the-badge"> 
   </p>
-  [![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=luisroxis_ProffyMobile&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=luisroxis_ProffyMobile?style=for-the-badge) 
-  [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=luisroxis_ProffyMobile&metric=security_rating)](https://sonarcloud.io/dashboard?id=luisroxis_ProffyMobile?style=for-the-badge)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=luisroxis_ProffyMobile&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=luisroxis_ProffyMobile?style=for-the-badge) 
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=luisroxis_ProffyMobile&metric=security_rating)](https://sonarcloud.io/dashboard?id=luisroxis_ProffyMobile?style=for-the-badge)
 
 
 <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/luisroxis/Proffy?style=for-the-badge">
