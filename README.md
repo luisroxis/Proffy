@@ -29,6 +29,8 @@
 
  :octocat: [Backend](https://github.com/luisroxis/ProffyBack)
 
+ :gear: [Heroku App](https://proffyback.herokuapp.com/)
+
   <p>
     <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/luisroxis/ProffyBack"> 
     <img alt="GitHub issues" src="https://img.shields.io/github/issues/luisroxis/ProffyBack"> 
@@ -36,10 +38,10 @@
     <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/luisroxis/ProffyBack"> 
     <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/luisroxis/ProffyBack"> 
     <img alt="Codeship" src="https://img.shields.io/codeship/ba7880e6-9a53-47fe-ae05-3a750bdf4db4">   
-  <img alt="Proffy Backend" src="http://heroku-shields.herokuapp.com/proffyback">
-  <img alt="Maintainability" src="https://sonarcloud.io/api/project_badges/measure?project=luisroxis_ProffyBack&metric=sqale_rating">
-  <img alt="Reliability Rating" src="https://sonarcloud.io/api/project_badges/measure?project=luisroxis_ProffyBack&metric=reliability_rating"> 
-  <img alt="Security Rating" src="https://sonarcloud.io/api/project_badges/measure?project=luisroxis_ProffyBack&metric=security_rating">
+    <img alt="Proffy Backend" src="https://heroku-badge.herokuapp.com/?app=proffyback">
+    <img alt="Maintainability" src="https://sonarcloud.io/api/project_badges/measure?project=luisroxis_ProffyBack&metric=sqale_rating">
+    <img alt="Reliability Rating" src="https://sonarcloud.io/api/project_badges/measure?project=luisroxis_ProffyBack&metric=reliability_rating"> 
+    <img alt="Security Rating" src="https://sonarcloud.io/api/project_badges/measure?project=luisroxis_ProffyBack&metric=security_rating">
   </p> 
  
 
