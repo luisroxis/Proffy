@@ -14,6 +14,10 @@
 <p> 
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=black" /> 
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=black" /> 
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-informational?style=flat-square&logo=PostgreSQL&logoColor=white" /> 
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" /> 
+  <img alt="React" src="https://simpleicons.org/icons/react.svg?style=flat-square&logo=heroku&logoColor=white" />
+
 </p>
 
 ## Tecnologias
