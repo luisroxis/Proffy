@@ -98,4 +98,4 @@ Axios :heavy_check_mark:
   <img alt="Security Rating" src="https://sonarcloud.io/api/project_badges/measure?project=luisroxis_ProffyMobile&metric=security_rating">
   </p>
 
-<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/luisroxis/Proffy">
+<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/luisroxis/Proffy?style=for-the-badge">
